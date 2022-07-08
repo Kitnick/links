@@ -1,0 +1,134 @@
+body{
+    padding: 30px;
+    background-color: #000000;
+    overflow: hidden
+}
+
+.outer-div{
+    padding: 50px;
+    background-color: #000000;
+}
+
+.inner-div{
+    max-width: 1200px;
+    height: 600px;
+    background-color: #000000;
+    margin: 0 auto;
+    margin-bottom: 12px;
+    position: absolute;
+    width: 100%;
+    bottom: 200px;
+    right: 370px;
+    border-color: #FAF8F6;
+    border-style: solid;
+    border-radius: 2px;
+}
+
+
+.image1 {
+    border-radius: 200px;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 360px;
+    z-index: 1;
+}
+
+/* li {
+    margin-top: 20px;
+    position:relative;
+    left:80px;
+    top:2px;
+    font-family: Roboto Mono, Monospace;
+    color: #5909DD;
+} */
+
+button {
+    color: #5909DD;
+    font-family: Roboto Mono, Monospace;
+    background-color: Transparent;
+    width: 200px;
+    height: 90px;
+    width: 39%;
+    font-size: 25px;
+    margin-bottom: 25px;
+    position: relative;
+    top: 215px;
+    border-radius: 2px;
+    left: 10px;
+    border-color: #5909DD;
+    text-align: left;
+}
+
+button:hover {
+    color:#FAF8F6;
+    border-color: #FAF8F6;
+}
+
+h1 {
+    position: relative;
+    left: 550px;
+    bottom: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #5909DD;
+}
+
+p1 {
+    position: relative;
+    left: 550px;
+    bottom: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #5909DD;
+}
+
+p2 {
+    position: relative;
+    left: 550px;
+    bottom: 90px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #5909DD;
+}
+
+.image3 {
+    width: 73px;
+    height: 56px;
+}
+
+.image4 {
+    width: 60px;
+    height: 57px;
+}
+
+p5 {
+    color:#5909DD;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p3 {
+    color:#5909DD;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p6 {
+    color:#5909DD;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    position: fixed;
+    width: 100%;
+    bottom: 10px;
+    border: transparent;
+    opacity: 100;
+    color:#5909DD;
+    text-align: center;
+}
+
+.image5 {
+    position: fixed;
+    bottom: 10px;
+    height: 50px;
+    right: 910px;
+}

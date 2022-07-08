@@ -1,0 +1,9 @@
+body {
+    /* background-color: #0e1212; */
+    background-color: #FAF8F6;
+}
+
+p1 {
+    color: #5909DD;
+    font-family: Roboto Mono, Monospace;
+}
